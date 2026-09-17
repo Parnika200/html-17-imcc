@@ -1,6 +1,8 @@
 types of css --
 inline/internal/external
 
+
+CSS box model-
 margin- space outside block
 padding- space inside block
 border 
