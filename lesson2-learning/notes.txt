@@ -7,6 +7,6 @@ border
 
 css attr -
 *       /* All */
-p       /* Element */
+p     /* Element */
 .class  /* Class */
 #id     /* ID */
