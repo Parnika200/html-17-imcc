@@ -10,3 +10,5 @@ css attr -
 p     /* Element */
 .class  /* Class */
 #id     /* ID */
+
+pseudo classes - hover/active
