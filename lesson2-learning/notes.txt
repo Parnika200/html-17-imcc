@@ -1,0 +1,12 @@
+types of css --
+inline/internal/external
+
+margin- space outside block
+padding- space inside block
+border 
+
+css attr -
+*       /* All */
+p       /* Element */
+.class  /* Class */
+#id     /* ID */
